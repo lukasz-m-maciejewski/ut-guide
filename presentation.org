@@ -1,0 +1,12 @@
+* Welcome
+
+Hi All
+
+* Given ... When ... Then
+This should be treated as a general principle
+
+* Test framework vs mocking framework
+
+This two concepts refer to two separate things.
+Testing framework can be exchanged without changing
+the testing framework and vice versa.
